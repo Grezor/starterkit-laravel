@@ -10,3 +10,10 @@
 -  [Livewire](https://livewire.laravel.com/)
 -  [Laravel Envoy](https://laravel.com/docs/10.x/envoy#main-content)
 -  [Laravel telescope](https://laravel.com/docs/9.x/telescope)
+
+
+## Filament
+- php artisan make:filament-user 
+ - name : Admin
+ - email : admin@gmail.com
+ - password : admin
